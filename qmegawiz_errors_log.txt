@@ -1,0 +1,19 @@
+
+
+C:/Users/abbymauger/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.vhd
+
+Dec 05 05PM:25:36>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/abbymauger/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/maugerak/Desktop/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image_v1_1_restored/vga_pll.vhd
+
+Dec 05 07PM:23:38>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/maugerak/Desktop/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image_v1_1_restored/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
